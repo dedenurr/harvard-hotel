@@ -7,7 +7,7 @@ Metode belajar pakai gaya **Harvard Case Method**:
 
 ---
 
-## 📂 Struktur Folder
+## 📂 Struktur Folder + Setup
 
 ```txt
 harvard-hotel/
@@ -26,21 +26,18 @@ harvard-hotel/
 │
 └─ README.md
 
-
----
-
-## ⚙️ Setup
-
-Hanya install dependencies sekali di root (monorepo).  
-```bash
+# 1. Install dependencies (sekali saja di root)
 cd harvard-hotel
 npm init -y
 npm install express typescript ts-node @types/express
 
+# 2. Menjalankan Project
 
-```Menjalankan Project
+## JavaScript (Vanilla)
 node js/hotel-js/index.js
+
+## Express
 node express/express-hotel/index.js
+
+## TypeScript + Express
 npx ts-node ts/ts-hotel/index.ts
-
-
