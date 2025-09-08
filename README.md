@@ -8,19 +8,21 @@ Metode belajar pakai gaya **Harvard Case Method**:
 ---
 
 ## 📂 Struktur Folder
+
+```txt
 harvard-hotel/
 │
-├─ js/
-│ ├─ js-foundation/ # Fundamental JS
-│ └─ hotel-js/ # Studi kasus hotel pakai JS vanilla
+├─ 📁 js/
+│  ├─ 📁 js-foundation/       # Fundamental JS
+│  └─ 📁 hotel-js/            # Studi kasus hotel pakai JS vanilla
 │
-├─ express/
-│ ├─ express-foundation/ # Dasar Express
-│ └─ express-hotel/ # Studi kasus hotel pakai Express
+├─ 📁 express/
+│  ├─ 📁 express-foundation/  # Dasar Express
+│  └─ 📁 express-hotel/       # Studi kasus hotel pakai Express
 │
-├─ ts/
-│ ├─ ts-foundation/ # Fundamental TypeScript
-│ └─ ts-hotel/ # Studi kasus hotel pakai TS + Express
+├─ 📁 ts/
+│  ├─ 📁 ts-foundation/       # Fundamental TypeScript
+│  └─ 📁 ts-hotel/            # Studi kasus hotel pakai TS + Express
 │
 └─ README.md
 
