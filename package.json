@@ -1,0 +1,27 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@types/express": "^5.0.3",
+    "express": "^5.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  },
+  "name": "harvard-hotel",
+  "version": "1.0.0",
+  "description": "Belajar **JavaScript → Express.js → TypeScript** dengan studi kasus **Hotel API**.   Metode belajar pakai gaya **Harvard Case Method**:   1. **Warmup**: pahami konsep fundamental dengan contoh sederhana.   2. **Case Study**: langsung praktek membangun aplikasi \"Hotel API\" step by step.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dedenurr/harvard-hotel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dedenurr/harvard-hotel/issues"
+  },
+  "homepage": "https://github.com/dedenurr/harvard-hotel#readme"
+}
